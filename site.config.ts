@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '文猫blog',
+  name: 'Sblog',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: '文猫',
+  author: 'S',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
