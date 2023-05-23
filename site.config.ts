@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Sblog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 's.songwang.life',
   author: 'S',
 
   // open graph metadata (optional)
